@@ -1,0 +1,11 @@
+8_2_lvgl\lv_ll.o: ..\lvgl\src\misc\lv_ll.c
+8_2_lvgl\lv_ll.o: ..\lvgl\src\misc\lv_ll.h
+8_2_lvgl\lv_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+8_2_lvgl\lv_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+8_2_lvgl\lv_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+8_2_lvgl\lv_ll.o: ..\lvgl\src\misc\lv_mem.h
+8_2_lvgl\lv_ll.o: ..\lvgl\src\misc\../lv_conf_internal.h
+8_2_lvgl\lv_ll.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+8_2_lvgl\lv_ll.o: ../lvgl/lv_conf.h
+8_2_lvgl\lv_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+8_2_lvgl\lv_ll.o: ..\lvgl\src\misc\lv_types.h

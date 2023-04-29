@@ -1,0 +1,14 @@
+8_2_lvgl\lv_anim_timeline.o: ..\lvgl\src\misc\lv_anim_timeline.c
+8_2_lvgl\lv_anim_timeline.o: ..\lvgl\src\misc\lv_anim_timeline.h
+8_2_lvgl\lv_anim_timeline.o: ..\lvgl\src\misc\lv_anim.h
+8_2_lvgl\lv_anim_timeline.o: ..\lvgl\src\misc\../lv_conf_internal.h
+8_2_lvgl\lv_anim_timeline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+8_2_lvgl\lv_anim_timeline.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+8_2_lvgl\lv_anim_timeline.o: ../lvgl/lv_conf.h
+8_2_lvgl\lv_anim_timeline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+8_2_lvgl\lv_anim_timeline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+8_2_lvgl\lv_anim_timeline.o: ..\lvgl\src\misc\lv_mem.h
+8_2_lvgl\lv_anim_timeline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+8_2_lvgl\lv_anim_timeline.o: ..\lvgl\src\misc\lv_types.h
+8_2_lvgl\lv_anim_timeline.o: ..\lvgl\src\misc\lv_assert.h
+8_2_lvgl\lv_anim_timeline.o: ..\lvgl\src\misc\lv_log.h
